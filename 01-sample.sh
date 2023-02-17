@@ -1,4 +1,4 @@
-#Hello World
+#!/bin/bash
 ls
 ls -l
 ls -l /opt
